@@ -1,4 +1,4 @@
 <template>
-    <div>index page</div>
+    <div>indexbogogood page</div>
     <Navbar />
 </template>
